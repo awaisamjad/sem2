@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "1c3ef37ef152f963",
+    "type": "split",
+    "children": [
+      {
+        "id": "b23f36cfe85285cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea8bb1e3a1fdf9e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e9045d0de771822",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac700365d4f8193a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb431034dd4254a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3aafc319f0bff76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#CASUAL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2cfa71f5eb47ce9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "decf3994ef710ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e013f6a239ed2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "262ab549055678a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "940590143d9dccb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b1c192d7ff2de0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7aef2cfeb09235db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes.md"
+              }
+            }
+          },
+          {
+            "id": "6040e0f19c8eb832",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "48ed06866989da5d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": true,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "marp:Marp: Open Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ea8bb1e3a1fdf9e3",
+  "lastOpenFiles": [
+    "Notes.md",
+    "Notes.md",
+    "Current Report.md",
+    "Slides Layout.md",
+    "Design Process Outline.md",
+    "Design Process Outline Flowchart.canvas",
+    "Script New.md",
+    "Critical Relfection.md",
+    "PS2 Experiment.md",
+    "Script.md",
+    "Design Process Outline.pdf",
+    "Design Matrix.md",
+    "assets/Design Process Outline Flowchart.png",
+    "assets/image1.jpg",
+    "assets/image2.jpg",
+    "assets/image3.jpg",
+    "Slides.md",
+    "assets/screw_terminal.jpg",
+    "assets/screw_terminal.jpg.opdownload",
+    "assets/storyboard.jpg",
+    "Ideas.md",
+    "assets/electronic_waste.png",
+    "assets/Pasted.md",
+    "assets/kids_electronic_kit.png",
+    "assets",
+    "Untitled 1.canvas",
+    "Information & Statistics.md"
+  ]
+}
