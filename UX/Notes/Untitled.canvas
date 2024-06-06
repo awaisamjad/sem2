@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"848392333695e97e","type":"text","text":"Start of lecture","x":-320,"y":-780,"width":177,"height":60},
+		{"id":"466e8d56f12cf16c","type":"text","text":"Lecturer starts the device which performs its functions","x":-620,"y":-700,"width":250,"height":120}
+	],
+	"edges":[]
+}

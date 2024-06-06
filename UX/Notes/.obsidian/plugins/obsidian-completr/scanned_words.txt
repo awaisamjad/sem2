@@ -71,6 +71,9 @@ Compliance
 Cleaning
 Compare
 Collaborating
+Compatibility
+Consists
+Colour
 Problem
 Possible
 Possibly
@@ -131,6 +134,7 @@ Professor
 Promote
 Position
 Providing
+Principles
 Electronic
 Electricians
 Extra
@@ -294,6 +298,8 @@ Ua
 UUzC
 University
 Uphold
+Usage
+UX
 If
 Interested
 Inspiration
@@ -347,6 +353,7 @@ Implement
 Investigate
 Identify
 Incorporating
+Interface
 your
 year
 yearly
@@ -487,6 +494,11 @@ protective
 proactively
 programs
 particularly
+power
+point
+physical
+placed
+principles
 requires
 recycling
 reusing
@@ -594,6 +606,11 @@ recently
 read
 regret
 reading
+respective
+retards
+reengage
+re
+room
 having
 happened
 hobbyists
@@ -665,6 +682,7 @@ healthy
 harms
 hazards
 helpful
+handheld
 to
 thinks
 throw
@@ -771,6 +789,7 @@ trying
 talking
 togethor
 thorough
+task
 change
 children
 components
@@ -918,6 +937,8 @@ contributing
 care
 commu
 comapnies
+collaboration
+class
 way
 who
 want
@@ -1058,6 +1079,8 @@ uVb
 updates
 understanding
 usage
+using
+ux
 its
 interested
 in
@@ -1154,6 +1177,7 @@ include
 incentive
 ities
 ideas
+interactive
 bad
 background
 breadboard
@@ -1319,6 +1343,9 @@ disadvantaged
 difficulty
 did
 decent
+den
+display
+desk
 Those
 Technical
 The
@@ -1382,6 +1409,7 @@ TJR
 Technological
 Talk
 These
+Tablet
 general
 get
 guaranteed
@@ -1550,6 +1578,9 @@ examination
 extracting
 enormous
 earlier
+eng
+engage
+every
 out
 old
 of
@@ -1619,6 +1650,7 @@ outline
 options
 organizations
 obsolete
+open
 Hobbyist
 HOBBYIST
 Hobbyists
@@ -1667,6 +1699,7 @@ Hf
 Hh
 Hg
 HV
+Helping
 already
 an
 and
@@ -1773,6 +1806,7 @@ awareness
 array
 act
 about
+article
 Needs
 Nv
 Nq
@@ -1933,6 +1967,14 @@ shared
 stringent
 shape
 strength
+settings
+slide
+singular
+screen
+students
+seat
+slides
+summary
 mark
 motor
 more
@@ -2021,6 +2063,8 @@ mitigate
 minimize
 majority
 minds
+maybe
+mech
 SAFETY
 Shouldn
 So
@@ -2086,6 +2130,9 @@ Size
 Security
 Southampton
 Schools
+Study
+Students
+Scheme
 Arduino
 Avenues
 Apple
@@ -2152,6 +2199,7 @@ Align
 Assess
 Acknowledge
 An
+Amongst
 new
 not
 necessarily
@@ -2198,6 +2246,7 @@ np
 nH
 need
 necessary
+notes
 for
 freedom
 focused
@@ -2273,6 +2322,7 @@ feasibility
 financial
 fostering
 feedback
+front
 Objectives
 Only
 Obsolescence
@@ -2496,6 +2546,7 @@ lending
 list
 legislation
 lawful
+lecture
 Bens
 BBFABBA
 Ben
@@ -2677,6 +2728,7 @@ Ghk
 Gv
 GRO
 Gw
+Group
 Larger
 Large
 LED
@@ -2736,6 +2788,7 @@ Lf
 Lq
 Legislation
 Local
+Laptop
 Many
 Main
 My
@@ -2781,6 +2834,9 @@ MG
 Mishandling
 Max
 More
+Modules
+Made
+Must
 From
 Focusing
 For
@@ -2828,6 +2884,7 @@ Fz
 FontFile
 FontDescriptor
 FairPhone
+Features
 Just
 JFIF
 Jh
@@ -3056,6 +3113,9 @@ Design
 Determine
 Designing
 Developing
+Description
+Dimensions
+Displays
 zy
 zD
 zMl

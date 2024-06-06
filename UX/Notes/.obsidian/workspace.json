@@ -8,12 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea8bb1e3a1fdf9e3",
+            "id": "5f992fd87c275088",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -298,
+                  "y": -306,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "47b4d33853ceb613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes.md",
+                "file": "System Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6ac47b7e9fc1936",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -166,9 +193,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea8bb1e3a1fdf9e3",
+  "active": "5f992fd87c275088",
   "lastOpenFiles": [
-    "Notes.md",
+    "Software Design.md",
+    "Untitled.canvas",
+    "System Design.md",
+    "Problem.md",
+    "Physical Design.md",
+    "Design.md",
     "Notes.md",
     "Current Report.md",
     "Slides Layout.md",

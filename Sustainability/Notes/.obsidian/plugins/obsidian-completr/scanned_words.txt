@@ -71,6 +71,10 @@ Compliance
 Cleaning
 Compare
 Collaborating
+Choose
+Comparator
+Computer
+Car
 Problem
 Possible
 Possibly
@@ -131,6 +135,12 @@ Professor
 Promote
 Position
 Providing
+Product
+Phones
+Puts
+Passion
+Personal
+Processes
 Electronic
 Electricians
 Extra
@@ -189,6 +199,8 @@ Ensure
 Exploring
 Ensuring
 Emphasize
+Environmental
+Economic
 Waste
 Wants
 Why
@@ -246,6 +258,8 @@ Wiping
 Williams
 Whats
 When
+We
+Water
 Users
 User
 Upwards
@@ -347,6 +361,8 @@ Implement
 Investigate
 Identify
 Incorporating
+Importance
+Issues
 your
 year
 yearly
@@ -487,6 +503,7 @@ protective
 proactively
 programs
 particularly
+produced
 requires
 recycling
 reusing
@@ -594,6 +611,8 @@ recently
 read
 regret
 reading
+right
+repaired
 having
 happened
 hobbyists
@@ -665,6 +684,7 @@ healthy
 harms
 hazards
 helpful
+harmed
 to
 thinks
 throw
@@ -918,6 +938,7 @@ contributing
 care
 commu
 comapnies
+caused
 way
 who
 want
@@ -1154,6 +1175,10 @@ include
 incentive
 ities
 ideas
+increasing
+item
+indicators
+interest
 bad
 background
 breadboard
@@ -1319,6 +1344,7 @@ disadvantaged
 difficulty
 did
 decent
+demand
 Those
 Technical
 The
@@ -1550,6 +1576,8 @@ examination
 extracting
 enormous
 earlier
+exponentially
+ever
 out
 old
 of
@@ -1667,6 +1695,8 @@ Hf
 Hh
 Hg
 HV
+Harmful
+Harms
 already
 an
 and
@@ -1773,6 +1803,8 @@ awareness
 array
 act
 about
+amongst
+animals
 Needs
 Nv
 Nq
@@ -2021,6 +2053,11 @@ mitigate
 minimize
 majority
 minds
+massive
+mining
+mindset
+money
+makes
 SAFETY
 Shouldn
 So
@@ -2086,6 +2123,10 @@ Size
 Security
 Southampton
 Schools
+Slavery
+Sees
+Sustainability
+Social
 Arduino
 Avenues
 Apple
@@ -2152,6 +2193,8 @@ Align
 Assess
 Acknowledge
 An
+Assessment
+Animal
 new
 not
 necessarily
@@ -2736,6 +2779,7 @@ Lf
 Lq
 Legislation
 Local
+Landfills
 Many
 Main
 My
@@ -2781,6 +2825,9 @@ MG
 Mishandling
 Max
 More
+Mobile
+Motor
+Motorbike
 From
 Focusing
 For
@@ -2828,6 +2875,7 @@ Fz
 FontFile
 FontDescriptor
 FairPhone
+Focus
 Just
 JFIF
 Jh
@@ -2954,6 +3002,7 @@ VY
 VNGU
 VU
 Vd
+Very
 REPORTED
 Recycling
 Researching

@@ -27,6 +27,7 @@ Mobile phones amongst other electronic devices contribute to the largest waste s
 # Sustainability indicators
 ## Environmental
 ## Economic
+E waste can be caused due to economic reasons as more products created without the ability to be repaired easily makes consumers waste more
 ## Social
 
 # Sustainability Assessment
